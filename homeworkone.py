@@ -4,10 +4,10 @@ my_list = mystring.split()
 # print(my_list)
 
 for str in my_list:
-    print(str, ", good morning")
+    print(" good morning", str)
 
 for j in my_list:
-    print(j, ", good night")
+    print(" good night", j)
     
     
     
